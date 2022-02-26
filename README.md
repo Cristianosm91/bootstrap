@@ -1,5 +1,8 @@
 # Projeto do Curso Origamid
 
+<img src="https://media.giphy.com/media/OumhjWLs1f5H3PH5yZ/giphy.gif"/>
+<img src="https://media.giphy.com/media/6gfeoeYUy47qyelgCR/giphy.gif"/>
+
 ### Altereções em relação ao projeto da aula:
 
 Adicionado a cidade de São Paulo e adicionado o Instagram nos contatos.
