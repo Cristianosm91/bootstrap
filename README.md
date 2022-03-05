@@ -3,6 +3,7 @@
 ### Altereções em relação ao projeto da aula:
 
 Adicionado a cidade de São Paulo e adicionado o Instagram nos contatos.
+Adicionado um margin-bottom e margin-top no formulário fale conosco da página contatos.
 
 # Utilizado:
 
