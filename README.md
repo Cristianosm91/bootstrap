@@ -5,8 +5,19 @@
 
 ### Altereções em relação ao projeto da aula:
 
-Adicionado a cidade de São Paulo e adicionado o Instagram nos contatos.
+Adicionado a cidade de São Paulo como destino de viagens e adicionado o Instagram nos contatos.
+
 Adicionado um margin-bottom e margin-top no formulário fale conosco da página contatos.
+
+Adicionado a lista completa com todos os estados Brasileiros no inscreva-se.
+
+Adicionado um campo separado para o número e bairro no inscreva-se
+
+Completado a lista de meses para o cartão expirar e atualizado os anos para o período entre 2022 e 2027 (validade máxima de um cartão é 5 anos)
+
+### Altereções futuras em relação ao projeto da aula:
+
+Na página inscreva-se, permitir que seja selecionado o plano.
 
 # Utilizado:
 
